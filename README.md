@@ -12,3 +12,10 @@ You can find more explanation and documentation of Stanford CoreNLP on [the Stan
 The most recent models associated the code in this repository can be found [here](http://nlp.stanford.edu/software/stanford-corenlp-models-current.jar).
 
 For information about making contributions to Stanford CoreNLP, see the file `CONTRIBUTING.md`.
+
+####################
+Stuff to add:
+1. Refactor codes to allow object creation from outside and call the requisite functions. (Primarily from R)
+2. Modify certain codes to run on GPUs
+
+####################
